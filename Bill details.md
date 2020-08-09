@@ -12,4 +12,8 @@ date: 08/08/2020
 - $10.65
 total: $212.59
 
+date: 08/09/2020
+- $63.96 Mario Party Game
+total: $148.63
+
 --End--
