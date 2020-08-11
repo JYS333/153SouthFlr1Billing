@@ -13,12 +13,13 @@ date: 08/08/2020
 total: $212.59
 
 date: 08/09/2020
-- $63.96 Mario Party Game
+- $63.96                     //Mario Party Game
 total: $148.63
 
 date: 08/10/2020
-- $191.36
+- $191.36                    // 99 Ranch Market
+- $42.64                     // joy-con   
 + $300
-total: 257.27
+total: 215.03
 
 --End--
