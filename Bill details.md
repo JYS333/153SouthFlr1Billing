@@ -20,6 +20,10 @@ date: 08/10/2020
 - $191.36                    // 99 Ranch Market
 - $42.64                     // joy-con   
 + $300
-total: 215.03
+total: $215.03
+
+date: 08/12/2020
+- $35.31
+total: 172.72                // chicken factory
 
 --End--
