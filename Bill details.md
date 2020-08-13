@@ -24,6 +24,11 @@ total: $215.03
 
 date: 08/12/2020
 - $35.31
-total: 172.72                // chicken factory
+total: $172.72                // Chicken factory
+
+date:08/13/2020
+- $61.91                     // Stop&Shop
+- $24.18                     // Sweet Pineapple
+total: $86.63
 
 --End--
