@@ -31,4 +31,11 @@ date:08/13/2020
 - $24.18                     // Sweet Pineapple
 total: $86.63
 
+date: 08/14/2020
+- $57.58                     // Hungry Panda
+- $9.59                      // Rolling pin
+- $43.61                     // Hoola-loop
++ $300
+total: $275.85
+
 --End--
