@@ -38,4 +38,9 @@ date: 08/14/2020
 + $300
 total: $275.85
 
+date: 08/16/2020
+- $10.65                     // TCL roku TV remote control
+- $5                         // TCL TV power cable
+- $100                       // TCL TV
+total: $160.2
 --End--
