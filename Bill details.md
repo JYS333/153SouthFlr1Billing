@@ -43,4 +43,14 @@ date: 08/16/2020
 - $5                         // TCL TV power cable
 - $100                       // TCL TV
 total: $160.2
+
+date: 08/18/2020
++ $42.64                     // Joy-con refund
+- $18                        // Lunch
+total: $184.84
+
+date: 08/19/2020
+- $49.33                     // Stop&shop
+- $33.97                     // Sweet pineapple
+
 --End--
