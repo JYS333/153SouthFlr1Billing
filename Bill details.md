@@ -52,5 +52,11 @@ total: $184.84
 date: 08/19/2020
 - $49.33                     // Stop&shop
 - $33.97                     // Sweet pineapple
+total: $101.54
+
+date: 08/21/2020             
+- $105.25                    // 99 Ranch Market
+- $36.44                     // Uber
+total: $-40.15
 
 --End--
