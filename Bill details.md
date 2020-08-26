@@ -57,6 +57,17 @@ total: $101.54
 date: 08/21/2020             
 - $105.25                    // 99 Ranch Market
 - $36.44                     // Uber
-total: $-40.15
++ $300
+total: $259.85
+
+date:08/22/2020
+- $19.48                     // White Rice
+
+date:08/26/2020
+- $45.36                      // Lunch
+- $35.88                      // Cake
+- $27.89                      // Sweet Pineapple
+- $42.63                      // Stop&Shop
+total: $88.61
 
 --End--
