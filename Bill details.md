@@ -68,6 +68,17 @@ date:08/26/2020
 - $35.88                      // Cake
 - $27.89                      // Sweet Pineapple
 - $42.63                      // Stop&Shop
-total: $88.61
+- $38.07                      // Chipotle
+total: $50.54
+
+date:08/30/2020
+- $42.13                      // Stop&Shop
+- $80                         // Verizon Fios
+- $55.47                      // Pop Eyes
++ $300
+total: $172.94
+
+
+
 
 --End--
