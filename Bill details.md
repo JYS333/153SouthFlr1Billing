@@ -78,7 +78,40 @@ date:08/30/2020
 + $300
 total: $172.94
 
+date:09/04/2020
+- $14.16                      // Uber
+- $111.35                     // Shop Rite
+total: $47.43
 
+date:09/06/2020
+- $15.5                       // Lunch
+- $15                         // Water
+total: $16.93 
 
+date: 09/08/2020
+- $40.27                      // Stop&Shop
+- $11.01                      // Sweet Pineapple
+total:-34.35         
+
+date: 09/11/2020
++ $300
+- $19.19                      // Diner
+- $16                         // Uber
+- $215.84                     // 99 Ranch Market
+- $12.9                       // Uber
+total: $1.72
+
+date: 09/17/2020
+- $80                         // Verizon
+- $45                         // Lunch
++ $900
+total: $776.72 
+
+date: 09/19/2020
+- $23.25                      // Sweet Pineapple
+- $75.47                      // Stop&Shop
+total: $678
 
 --End--
+
+https://github.com/JYS333/153SouthFlr1Billing
