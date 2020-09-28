@@ -112,6 +112,27 @@ date: 09/19/2020
 - $75.47                      // Stop&Shop
 total: $678
 
+date: 09/20/2020
+- $20.7                       // Water
+
+date: 09/21/2020
+- $19.88                      // Scale
+
+date: 09/24/2020
+- $20                         // Dinner
+- $20.60                      // Chicken Factory
+
+date: 09/25/2020
+- $42.57                      // Sweet Pineapple
+- $22                         // Burger King
+
+date: 09/27/2020
+- $243.47                     // 99 Ranch Market
+- $80                         // Verizon
+total: $208.78
+
+
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
