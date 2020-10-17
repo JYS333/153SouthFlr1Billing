@@ -131,6 +131,37 @@ date: 09/27/2020
 - $80                         // Verizon
 total: $208.78
 
+date: 10/01/2020
+- $34.5                       // Moive
+- $100.34                     // Dinner
+- $13.43                      // Uber
+- $16.57                      // Uber
+
+date:10/02/2020
+- $42.19                      // Sweet Pineapple
+- $32.79                      // Stop&Shop
+total: $-31.04
+
+date: 10/06/2020
++ $900
+- $63.54                      // The Old Spot
+
+date: 10/09/2020
+- $56.01                      // Lunch
+- $40.13                      // Market produce
+- $49.44                      // Stop&Shop
+- $9.88                       // 99 Cent
+
+
+date: 10/12/2020
+- $70                         // Lunch
+- $19.48                      // Rice
+
+date: 10/17/2020
+- $288.22                     // 99 Ranch Market
+- $13
+- $11.69                      // Uber
+total: $247.57
 
 
 --End--
