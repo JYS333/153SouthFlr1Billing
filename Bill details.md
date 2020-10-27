@@ -163,6 +163,30 @@ date: 10/17/2020
 - $11.69                      // Uber
 total: $247.57
 
+date: 10/18/2020
+- $21.3                       // Mask
+- $63                         // Lunch
+
+date: 10/19/2020
+- $80                         // Verizon
+- $36.29                      // Stop&shop
+- $10.65                      // Beer
+- $24.11                      // Fruits
+
+date: 10/22/2020
+- $20.6                       // Chicken Factory
+
+date: 10/25/2020
+- $24.62                      // Sweet Pineapple
+
+date: 20/27/2020
+- $81.73                      // Dinner
++ $900
+total: $785.27
+
+
+
+
 
 --End--
 
