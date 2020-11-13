@@ -23,8 +23,8 @@ date: 08/10/2020
 total: $215.03
 
 date: 08/12/2020
-- $35.31
-total: $172.72                // Chicken factory
+- $35.31                     // Chicken factory
+total: $172.72                
 
 date:08/13/2020
 - $61.91                     // Stop&Shop
@@ -179,12 +179,43 @@ date: 10/22/2020
 date: 10/25/2020
 - $24.62                      // Sweet Pineapple
 
-date: 20/27/2020
+date: 10/27/2020
 - $81.73                      // Dinner
 + $900
 total: $785.27
 
+date: 10/28/2020
+- $151.93                     // 99 Ranch Market
+- $24.2                       // Uber
 
+date: 10/31/2020
+- $74.03                      // Dinner
+- $43.2                       // Drinks
+
+date: 11/02/2020
+- $36.26                      // Veges&Fruits
+- $64                         // Lunch
+- $25                         // Dinner
+
+date: 11/04/2020
+- $54                         // Lunch
+- $19.48                      // Rice
+
+date: 11/06/2020
+- $60.55                      // Lunch
+- $15.27                      // Fruits/veges
+- $61.23                      // Stop&Shop
+total: $254.35
+
+date: 11/09/2020
+- $67.73                      // Dinner
+
+date: 11/11/2020
+- $252.08                     // 99 Ranch Market
+- $22.44                      // Uber
+
+date: 11/13/2020
++ $900
 
 
 
