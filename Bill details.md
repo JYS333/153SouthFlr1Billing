@@ -223,8 +223,14 @@ date: 11/17/2020
 - $80                         // Verizon
 total: $634.38               
 
+date: 11/18/2020
+- $36.54                      // Dinner
+- $69.89
+- $88.37                      // S&S
+- $26.29                      // Sweet Pineapple
 
-
+date: 11/22/2020
+- $18.09                      // Dishwasher pods
 
 
 --End--
