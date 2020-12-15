@@ -232,6 +232,42 @@ date: 11/18/2020
 date: 11/22/2020
 - $18.09                      // Dishwasher pods
 
+date: 11/24/2020
+- $201.58                     // 99 Ranch Market
+- $10.25                      // Uber
+- $12.18
+
+date: 11/28/2020
+- $24.17                      // Sweet Pineapple
+- $41.74                      // S&S
+- $80                         // Verizon
++ $900
+total: $925.28
+
+date: 11/29/2020
+- $53                         // Yogurt
+
+date: 12/04/2020
+- $205.85                     // 99
+- $12.75
+- $14.67                      // Uber
+
+date: 12/07/2020
+- $70.56                      // Hungry Panda
+
+date: 12/09/2020
+- $56.28                      // Hungry Panda
+
+date: 12/13/2020
+- $19.48                      // Rice
+- $47.08                      // Dinner
+- $50.15                      // Lunch
+
+date: 12/15/2020
+- $58.02                      // Yogurt
+- $56.27                      // Vege
+- $53.2                       // Lunch
+total: $227.97
 
 --End--
 
