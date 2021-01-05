@@ -269,6 +269,38 @@ date: 12/15/2020
 - $53.2                       // Lunch
 total: $227.97
 
+date: 12/20/2020
+- $56.28                      // Lunch
+- $80                         // Verizon
+
+date: 12/21/2020
+- $226.24                     // 99
+- $17.48
+- $11.22                      // Uber
++ $900
+total: $736.75        
+
+12/27/2020
+- $56.49                      // Hungry Panda
+- $68.05                      // Uber Eats
+
+12/28/2020
+- $62.45                      // S&S
+
+12/30/2020
+- $39.14                      // Fruits & Veges
+- $19.48                      // Rice
+
+01/01/2020
+- $78.06                      // ICHIRAN Ramen
+- $31.85                      // Chick FilA
+- $70.5                       // Water & Eggs
+
+01/05/2020
+- $183.81                     // 99 Ranch Market
+- $11.77
+- $10.84                      // Uber
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
