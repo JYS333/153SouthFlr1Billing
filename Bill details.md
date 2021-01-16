@@ -291,15 +291,37 @@ total: $736.75
 - $39.14                      // Fruits & Veges
 - $19.48                      // Rice
 
+12/31/2020
+- $71.25                      // Taste of North China
+
 01/01/2020
 - $78.06                      // ICHIRAN Ramen
 - $31.85                      // Chick FilA
 - $70.5                       // Water & Eggs
 
 01/05/2020
+- $63.63                      // Chengdu 1
 - $183.81                     // 99 Ranch Market
 - $11.77
 - $10.84                      // Uber
+- $45.95                      // The Old Spot
+
+01/10/2020
+// forget to record
+- $60.29                      // Chengdu 1
+- $58.59                      // The Old Spot 12.6
+- $59.37                      // PopEyes 11.30
+- $57.22                      // Chicken Factory 11.29
+- $74.43                      // Sichuan Restaurant 11.23
++ $900
+total: $513.58
+
+01/12/2020
+- $30.65                      // Sweet Pineapple
+- $123.02                     // S&S
+
+01/15/2021
+- $36.54                      // Chicken factory
 
 --End--
 
