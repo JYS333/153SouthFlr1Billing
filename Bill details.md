@@ -323,6 +323,52 @@ total: $513.58
 01/15/2021
 - $36.54                      // Chicken factory
 
+01/16/2021
+- $19.48                      // Rice
+- $69.86                      // Lunch
+- $26.79                      // Vege
+
+01/19/2021
+- $114.62                     // Hungry Panda
+- $58                         // Tao Ge
+
+01/20/2021
+- $60                         // Lunch
+- $80                         // Verizon
+
+01/23/2021
+- $22.33                      // Uber
+
+01/24/2021
+- $97.79                      // Lunch Hungry Panda 
+- $60.29
++ $1200                       
+total: $909.63
+
+01/25/2021
+- $14.42
+- $10.11                      // Uber
+- $285.61                     // 99 Ranch Market
+
+01/30/2021
+- $51.39                      // Hungry Panda
+
+02/03/2021
+- $38.58                      // McDonald
+- $56.29                      // Dinner
+
+02/04/2021
+- $92.12                      // S&S
+- $24.38                      // Veges
+- $21.30                      // Beers
+
+02/08/2021
+- $49.19                      // Lunch
+- $119.65                     // 99 Ranch Market
+- $14.37                      // Uber
+- $13.96
+
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
