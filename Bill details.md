@@ -376,6 +376,10 @@ total: $909.63
 - $71                         // Lunch
 total: $47.26(except for 02/10/2021)
 
+02/13/2021
+
+- $+800                    //
+- -$51                       //Passport photo
 
 --End--
 
