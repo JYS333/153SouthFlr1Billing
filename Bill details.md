@@ -381,6 +381,10 @@ total: $47.26(except for 02/10/2021)
 - $+800                    //
 - -$51                       //Passport photo
 
+02/14/2021
+
+- -$16.97                // grocery
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
