@@ -373,17 +373,21 @@ total: $909.63
 - $14.37                      // Uber
 
 02/11/2021
-- $71                         // Lunch
+- $71                           // Lunch
 total: $47.26(except for 02/10/2021)
 
 02/13/2021
 
-- $+800                    //
-- -$51                       //Passport photo
+- $+800                       //
+- -$51                          //Passport photo
 
 02/14/2021
 
-- -$16.97                // grocery
+- -$16.97                    // grocery
+
+02/15/2021
+
+- -$50.00                     // Lunch
 
 --End--
 
