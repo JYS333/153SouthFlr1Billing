@@ -389,6 +389,10 @@ total: $47.26(except for 02/10/2021)
 
 - -$50.00                     // Lunch
 
+02/16/2021
+
+- -$62.30                     // Stop&Shop
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
