@@ -393,6 +393,12 @@ total: $47.26(except for 02/10/2021)
 
 - -$62.30                     // Stop&Shop
 
+02/20/2021
+
+- -$79.99                     // Verizon
+
+  total: $ 539.74
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
