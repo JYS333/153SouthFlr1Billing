@@ -397,7 +397,15 @@ total: $47.26(except for 02/10/2021)
 
 - -$79.99                     // Verizon
 
-  total: $ 539.74
+  total: $539.74
+
+- -$225.33                   // 99 Ranch
+
+- -$15.10                     // Uber
+
+- -$12.82                     // Uber
+
+  Total: $286.49
 
 --End--
 
