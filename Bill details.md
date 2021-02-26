@@ -407,6 +407,16 @@ total: $47.26(except for 02/10/2021)
 
   Total: $286.49
 
+02/26/2021
+
+- -$21.31                      // Rice
+
+- -$18.00                      // Bus
+
+- -$139.5                      // ULUH
+
+  Total: $ 107.68
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
