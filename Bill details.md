@@ -417,7 +417,13 @@ total: $47.26(except for 02/10/2021)
 
   Total: $ 107.68
 
-- -$18,45                      // CASCATE
+- -$18.45                      // CASCATE
+
+02/27/2021
+
+- -$62.44                     // Chendu 1
+
+  Total: $26.79
 
 --End--
 
