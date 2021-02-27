@@ -417,6 +417,8 @@ total: $47.26(except for 02/10/2021)
 
   Total: $ 107.68
 
+- -$18,45                      // CASCATE
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
