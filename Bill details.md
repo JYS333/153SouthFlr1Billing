@@ -423,7 +423,17 @@ total: $47.26(except for 02/10/2021)
 
 - -$62.44                     // Chendu 1
 
-  Total: $26.79
+- -6.24                         // Tip
+
+  Total: $20.55
+
+03/02/2021
+
+- +$800
+
+- -$22.38                      // Monster Energy Drink
+
+  Total: $798.17
 
 --End--
 
