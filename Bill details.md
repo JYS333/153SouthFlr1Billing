@@ -435,6 +435,13 @@ total: $47.26(except for 02/10/2021)
 
   Total: $798.17
 
+03/04/2021
+
+- -$49.75                      // popeyes
+- -$11.19                      // Uber
+- -$11.02                      // Uber
+- -$143.47                   // 99 Ranch Market
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
