@@ -453,6 +453,16 @@ total: $47.26(except for 02/10/2021)
 
 - -$63.65                     // Pho
 
+03/12/2021
+
+- -$10.96                     // Uber
+
+- -$11.90                    // Uber
+
+- -$179.76                  // 99 Ranch Market
+
+  Total: $231.69
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
