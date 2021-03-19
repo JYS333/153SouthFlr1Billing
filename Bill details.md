@@ -463,6 +463,18 @@ total: $47.26(except for 02/10/2021)
 
   Total: $231.69
 
+03/19/2021
+
+- -$79.99                    // Verizon
+
+- -$5.00                      // Cooking Kitchen Aprons
+
+- -$20.31                    // Popeyes
+
+- -$20.72                    // Popeyes
+
+  Total: $105.67
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
