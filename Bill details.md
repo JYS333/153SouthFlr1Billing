@@ -475,6 +475,14 @@ total: $47.26(except for 02/10/2021)
 
   Total: $105.67
 
+03/21/2021
+
+- -$28.4                       // Grocery
+
+- +$800
+
+  Total: 877.27
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
