@@ -483,6 +483,12 @@ total: $47.26(except for 02/10/2021)
 
   Total: 877.27
 
+03/24/2021
+
+- -$260.61                  // 99 Ranch
+
+  Total: $616.66
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
