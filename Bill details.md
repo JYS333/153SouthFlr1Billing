@@ -489,6 +489,11 @@ total: $47.26(except for 02/10/2021)
 
   Total: $616.66
 
+04/01/2021
+
+- -$32.51                    // 黄焖鸡
+- 
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
