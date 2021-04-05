@@ -497,6 +497,13 @@ total: $47.26(except for 02/10/2021)
 
 - -$45.47                    // Chengdu1
 
+04/05/2021
+
+- -$213.03                  // 99 Ranch
+- -$14.99                    // Uber
+- -$16.95                    // Uber
+- -$22.38                    // Monster Energy
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
