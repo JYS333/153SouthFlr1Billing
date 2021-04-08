@@ -504,6 +504,10 @@ total: $47.26(except for 02/10/2021)
 - -$16.95                    // Uber
 - -$22.38                    // Monster Energy
 
+04/07/2021
+
+- -$39.03                     // Popeyes
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
