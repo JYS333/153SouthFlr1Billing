@@ -508,6 +508,40 @@ total: $47.26(except for 02/10/2021)
 
 - -$39.03                     // Popeyes
 
+04/12/2021
+
+- -$26.55                      // Uber
+
+- -$17.39                      // Uber
+
+  Total: $88.36
+
+04/12/2021
+
+- -$44.96
+
+04/14/2021
+
+- -$10.83                      // Uber
+
+- -$11.89                       // Uber
+
+- -$162.17                    // 99 Ranch Market
+
+- +$800
+
+  Total: $703.47
+
+04/19/2021
+
+- -$ 32.26                     // chipotle
+
+- -$ 37.6                       // popeys
+
+- -$ 79.99                    // Verizon
+
+  Total: 553.62
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
