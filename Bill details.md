@@ -552,7 +552,9 @@ total: $47.26(except for 02/10/2021)
 
 - -$ 191.95                  // 99 Ranch Market
 
-  Total: 298.47
+- -$ 100                       // Tao Chen
+
+  Total: 198.47
 
 --End--
 
