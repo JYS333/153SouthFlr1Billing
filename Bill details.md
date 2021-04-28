@@ -556,6 +556,12 @@ total: $47.26(except for 02/10/2021)
 
   Total: 198.47
 
+04/28/2021
+
+- -$62.26                      // Chendu 1
+
+  Total: 136.21
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
