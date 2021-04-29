@@ -558,9 +558,17 @@ total: $47.26(except for 02/10/2021)
 
 04/28/2021
 
-- -$62.26                      // Chendu 1
+- -$ 62.26                      // Chendu 1
 
   Total: 136.21
+
+04/29/2021
+
+- +$800
+- -$16.97                        // Cascade Complete Dishwasher Pods
+- -$13.56                        // Uber
+- -$13.66                        // Uber
+- -$138.45                      // 99 Ranch Market
 
 --End--
 
