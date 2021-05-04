@@ -570,6 +570,12 @@ total: $47.26(except for 02/10/2021)
 - -$13.66                        // Uber
 - -$138.45                      // 99 Ranch Market
 
+05/03/2021
+
+- -$24.43                        // Uber
+- -$20.22                        // Uber
+- -$73.26                        // Taste of North China
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
