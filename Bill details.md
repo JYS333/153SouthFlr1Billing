@@ -576,6 +576,10 @@ total: $47.26(except for 02/10/2021)
 - -$20.22                        // Uber
 - -$73.26                        // Taste of North China
 
+05/05/2021
+
+- -$47.31                        // Chengdu 1
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
