@@ -580,6 +580,18 @@ total: $47.26(except for 02/10/2021)
 
 - -$47.31                        // Chengdu 1
 
+0507/2021
+
+- -$13.76                        // Uber
+
+- -$13.93                        // Uber
+
+- -$49.77                        // Chengdu 1
+
+- -$134.86                      // 99 Ranch Market
+
+  Total: 376.03
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
