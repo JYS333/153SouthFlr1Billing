@@ -592,6 +592,18 @@ total: $47.26(except for 02/10/2021)
 
   Total: 376.03
 
+05/11/2021
+
+- -$18.00                          // Bus
+
+- -$131.19                       // Uluh
+
+- -$36.00                         // Uber
+
+- +$800
+
+  Total: 990.84
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
