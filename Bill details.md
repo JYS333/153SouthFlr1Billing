@@ -604,6 +604,10 @@ total: $47.26(except for 02/10/2021)
 
   Total: 990.84
 
+05/13/2021
+
+- -$52.64                         // Popeyes
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
