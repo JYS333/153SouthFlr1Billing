@@ -608,6 +608,18 @@ total: $47.26(except for 02/10/2021)
 
 - -$52.64                         // Popeyes
 
+05/15/2021
+
+- -$15.34                         // Uber
+- -$13.05                         // Uber
+- -$178.95                       // 99 Ranch Market
+
+05/19/2021
+
+- -$22.38                          // Monster Energy Drink
+- -$10.17                         // Uber
+- -$51.38                         // Pho
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
