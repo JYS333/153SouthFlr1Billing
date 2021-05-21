@@ -620,6 +620,12 @@ total: $47.26(except for 02/10/2021)
 - -$10.17                         // Uber
 - -$51.38                         // Pho
 
+05/21/2021
+
+- -$44.11                          // Taste of North China
+
+  Total: 602.92
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
