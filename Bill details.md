@@ -626,6 +626,12 @@ total: $47.26(except for 02/10/2021)
 
   Total: 602.92
 
+05/22/2021
+
+- -$16.95
+- -$15.97
+- -$-179.01
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
