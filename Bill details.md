@@ -632,6 +632,12 @@ total: $47.26(except for 02/10/2021)
 - -$15.97
 - -$-179.01
 
+05/25/2021
+
+- -$13.94                         // Uber
+- -$12.00                        // Sweet Pineapple
+- -$67.70                       // Thai Food
+
 --End--
 
 https://github.com/JYS333/153SouthFlr1Billing
