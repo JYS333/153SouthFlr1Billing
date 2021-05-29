@@ -635,8 +635,16 @@ total: $47.26(except for 02/10/2021)
 05/25/2021
 
 - -$13.94                         // Uber
+
 - -$12.00                        // Sweet Pineapple
+
 - -$67.70                       // Thai Food
+
+  Total: 297.35
+
+05/28/2021
+
+- -$80.00                        // Grand Sichuan
 
 --End--
 
